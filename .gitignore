@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/App1Eventos_Solution/Eventos.Model/obj/Debug
+/App1Eventos_Solution/Eventos.Portable/Eventos.Portable/bin/Debug
+/App1Eventos_Solution/Eventos.Portable/Eventos.Portable/obj/Debug
+/App1Eventos_Solution/Eventos.Portable/Eventos.Portable.Droid/bin/Debug
+/App1Eventos_Solution/Eventos.Portable/Eventos.Portable.Droid/obj/Debug
+/App1Eventos_Solution/Eventos.Portable/Eventos.Portable.iOS/obj/iPhone/Debug
+/App1Eventos_Solution/Eventos.Portable/Eventos.Portable.Windows/bin/Debug
+/App1Eventos_Solution/Eventos.Portable/Eventos.Portable.Windows/obj/Debug
+/App1Eventos_Solution/Eventos.Portable/Eventos.Portable.WinPhone/bin/Debug
+/App1Eventos_Solution/Eventos.Portable/Eventos.Portable.WinPhone/obj/Debug
